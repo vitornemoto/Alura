@@ -1,0 +1,11 @@
+C:\csharppoo-aula2\04-ByteBank-Metodos\bin\Debug\netcoreapp2.1\04-ByteBank.deps.json
+C:\csharppoo-aula2\04-ByteBank-Metodos\bin\Debug\netcoreapp2.1\04-ByteBank.runtimeconfig.json
+C:\csharppoo-aula2\04-ByteBank-Metodos\bin\Debug\netcoreapp2.1\04-ByteBank.runtimeconfig.dev.json
+C:\csharppoo-aula2\04-ByteBank-Metodos\bin\Debug\netcoreapp2.1\04-ByteBank.dll
+C:\csharppoo-aula2\04-ByteBank-Metodos\bin\Debug\netcoreapp2.1\04-ByteBank.pdb
+C:\csharppoo-aula2\04-ByteBank-Metodos\obj\Debug\netcoreapp2.1\04-ByteBank.csprojAssemblyReference.cache
+C:\csharppoo-aula2\04-ByteBank-Metodos\obj\Debug\netcoreapp2.1\04-ByteBank.csproj.CoreCompileInputs.cache
+C:\csharppoo-aula2\04-ByteBank-Metodos\obj\Debug\netcoreapp2.1\04-ByteBank.AssemblyInfoInputs.cache
+C:\csharppoo-aula2\04-ByteBank-Metodos\obj\Debug\netcoreapp2.1\04-ByteBank.AssemblyInfo.cs
+C:\csharppoo-aula2\04-ByteBank-Metodos\obj\Debug\netcoreapp2.1\04-ByteBank.dll
+C:\csharppoo-aula2\04-ByteBank-Metodos\obj\Debug\netcoreapp2.1\04-ByteBank.pdb

@@ -1,0 +1,11 @@
+C:\Alura\csharppoo-curso9\ByteBankExportacaoImportacaoBinaria\bin\Debug\netcoreapp2.1\ByteBankExportacaoImportacaoBinaria.deps.json
+C:\Alura\csharppoo-curso9\ByteBankExportacaoImportacaoBinaria\bin\Debug\netcoreapp2.1\ByteBankExportacaoImportacaoBinaria.runtimeconfig.json
+C:\Alura\csharppoo-curso9\ByteBankExportacaoImportacaoBinaria\bin\Debug\netcoreapp2.1\ByteBankExportacaoImportacaoBinaria.runtimeconfig.dev.json
+C:\Alura\csharppoo-curso9\ByteBankExportacaoImportacaoBinaria\bin\Debug\netcoreapp2.1\ByteBankExportacaoImportacaoBinaria.dll
+C:\Alura\csharppoo-curso9\ByteBankExportacaoImportacaoBinaria\bin\Debug\netcoreapp2.1\ByteBankExportacaoImportacaoBinaria.pdb
+C:\Alura\csharppoo-curso9\ByteBankExportacaoImportacaoBinaria\obj\Debug\netcoreapp2.1\ByteBankExportacaoImportacaoBinaria.csproj.CoreCompileInputs.cache
+C:\Alura\csharppoo-curso9\ByteBankExportacaoImportacaoBinaria\obj\Debug\netcoreapp2.1\ByteBankExportacaoImportacaoBinaria.AssemblyInfoInputs.cache
+C:\Alura\csharppoo-curso9\ByteBankExportacaoImportacaoBinaria\obj\Debug\netcoreapp2.1\ByteBankExportacaoImportacaoBinaria.AssemblyInfo.cs
+C:\Alura\csharppoo-curso9\ByteBankExportacaoImportacaoBinaria\obj\Debug\netcoreapp2.1\ByteBankExportacaoImportacaoBinaria.dll
+C:\Alura\csharppoo-curso9\ByteBankExportacaoImportacaoBinaria\obj\Debug\netcoreapp2.1\ByteBankExportacaoImportacaoBinaria.pdb
+C:\Alura\csharppoo-curso9\ByteBankExportacaoImportacaoBinaria\obj\Debug\netcoreapp2.1\ByteBankExportacaoImportacaoBinaria.csprojAssemblyReference.cache

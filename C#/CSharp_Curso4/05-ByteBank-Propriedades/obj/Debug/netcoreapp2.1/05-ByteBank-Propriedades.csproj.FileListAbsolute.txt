@@ -1,0 +1,10 @@
+C:\csharppoo-aula2\05-ByteBank-Propriedades\bin\Debug\netcoreapp2.1\05-ByteBank-Propriedades.deps.json
+C:\csharppoo-aula2\05-ByteBank-Propriedades\bin\Debug\netcoreapp2.1\05-ByteBank-Propriedades.runtimeconfig.json
+C:\csharppoo-aula2\05-ByteBank-Propriedades\bin\Debug\netcoreapp2.1\05-ByteBank-Propriedades.runtimeconfig.dev.json
+C:\csharppoo-aula2\05-ByteBank-Propriedades\bin\Debug\netcoreapp2.1\05-ByteBank-Propriedades.dll
+C:\csharppoo-aula2\05-ByteBank-Propriedades\bin\Debug\netcoreapp2.1\05-ByteBank-Propriedades.pdb
+C:\csharppoo-aula2\05-ByteBank-Propriedades\obj\Debug\netcoreapp2.1\05-ByteBank-Propriedades.csproj.CoreCompileInputs.cache
+C:\csharppoo-aula2\05-ByteBank-Propriedades\obj\Debug\netcoreapp2.1\05-ByteBank-Propriedades.AssemblyInfoInputs.cache
+C:\csharppoo-aula2\05-ByteBank-Propriedades\obj\Debug\netcoreapp2.1\05-ByteBank-Propriedades.AssemblyInfo.cs
+C:\csharppoo-aula2\05-ByteBank-Propriedades\obj\Debug\netcoreapp2.1\05-ByteBank-Propriedades.dll
+C:\csharppoo-aula2\05-ByteBank-Propriedades\obj\Debug\netcoreapp2.1\05-ByteBank-Propriedades.pdb

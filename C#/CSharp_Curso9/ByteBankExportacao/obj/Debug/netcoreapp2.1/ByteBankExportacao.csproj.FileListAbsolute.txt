@@ -1,0 +1,11 @@
+C:\Alura\csharppoo-curso9\ByteBankExportacao\bin\Debug\netcoreapp2.1\ByteBankExportacao.deps.json
+C:\Alura\csharppoo-curso9\ByteBankExportacao\bin\Debug\netcoreapp2.1\ByteBankExportacao.runtimeconfig.json
+C:\Alura\csharppoo-curso9\ByteBankExportacao\bin\Debug\netcoreapp2.1\ByteBankExportacao.runtimeconfig.dev.json
+C:\Alura\csharppoo-curso9\ByteBankExportacao\bin\Debug\netcoreapp2.1\ByteBankExportacao.dll
+C:\Alura\csharppoo-curso9\ByteBankExportacao\bin\Debug\netcoreapp2.1\ByteBankExportacao.pdb
+C:\Alura\csharppoo-curso9\ByteBankExportacao\obj\Debug\netcoreapp2.1\ByteBankExportacao.csprojAssemblyReference.cache
+C:\Alura\csharppoo-curso9\ByteBankExportacao\obj\Debug\netcoreapp2.1\ByteBankExportacao.csproj.CoreCompileInputs.cache
+C:\Alura\csharppoo-curso9\ByteBankExportacao\obj\Debug\netcoreapp2.1\ByteBankExportacao.AssemblyInfoInputs.cache
+C:\Alura\csharppoo-curso9\ByteBankExportacao\obj\Debug\netcoreapp2.1\ByteBankExportacao.AssemblyInfo.cs
+C:\Alura\csharppoo-curso9\ByteBankExportacao\obj\Debug\netcoreapp2.1\ByteBankExportacao.dll
+C:\Alura\csharppoo-curso9\ByteBankExportacao\obj\Debug\netcoreapp2.1\ByteBankExportacao.pdb

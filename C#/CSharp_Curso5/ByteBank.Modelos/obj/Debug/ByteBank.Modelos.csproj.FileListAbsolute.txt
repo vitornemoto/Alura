@@ -1,0 +1,7 @@
+C:\Alura\csharppoo-curso5\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Alura\csharppoo-curso5\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Alura\csharppoo-curso5\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojAssemblyReference.cache
+C:\Alura\csharppoo-curso5\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Alura\csharppoo-curso5\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Alura\csharppoo-curso5\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
+C:\Alura\csharppoo-curso5\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml

@@ -1,0 +1,15 @@
+C:\Alura\csharppoo-curso6\ByteBank.Site\bin\Debug\netcoreapp2.1\ByteBank.Site.deps.json
+C:\Alura\csharppoo-curso6\ByteBank.Site\bin\Debug\netcoreapp2.1\ByteBank.Site.runtimeconfig.json
+C:\Alura\csharppoo-curso6\ByteBank.Site\bin\Debug\netcoreapp2.1\ByteBank.Site.runtimeconfig.dev.json
+C:\Alura\csharppoo-curso6\ByteBank.Site\bin\Debug\netcoreapp2.1\ByteBank.Site.dll
+C:\Alura\csharppoo-curso6\ByteBank.Site\bin\Debug\netcoreapp2.1\ByteBank.Site.pdb
+C:\Alura\csharppoo-curso6\ByteBank.Site\obj\Debug\netcoreapp2.1\ByteBank.Site.csprojAssemblyReference.cache
+C:\Alura\csharppoo-curso6\ByteBank.Site\obj\Debug\netcoreapp2.1\ByteBank.Site.csproj.CoreCompileInputs.cache
+C:\Alura\csharppoo-curso6\ByteBank.Site\obj\Debug\netcoreapp2.1\ByteBank.Site.AssemblyInfoInputs.cache
+C:\Alura\csharppoo-curso6\ByteBank.Site\obj\Debug\netcoreapp2.1\ByteBank.Site.AssemblyInfo.cs
+C:\Alura\csharppoo-curso6\ByteBank.Site\obj\Debug\netcoreapp2.1\ByteBank.Site.dll
+C:\Alura\csharppoo-curso6\ByteBank.Site\obj\Debug\netcoreapp2.1\ByteBank.Site.pdb
+C:\Alura\csharppoo-curso6\ByteBank.Site\bin\Debug\netcoreapp2.1\ByteBank.Modelos.dll
+C:\Alura\csharppoo-curso6\ByteBank.Site\bin\Debug\netcoreapp2.1\ByteBank.Modelos.pdb
+C:\Alura\csharppoo-curso6\ByteBank.Site\bin\Debug\netcoreapp2.1\ByteBank.Modelos.xml
+C:\Alura\csharppoo-curso6\ByteBank.Site\obj\Debug\netcoreapp2.1\ByteBank.Site.csproj.CopyComplete

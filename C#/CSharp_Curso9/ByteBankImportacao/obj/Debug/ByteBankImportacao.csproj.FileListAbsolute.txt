@@ -1,0 +1,7 @@
+C:\Alura\csharppoo-curso9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe.config
+C:\Alura\csharppoo-curso9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.exe
+C:\Alura\csharppoo-curso9\ByteBankImportacaoExportacao\bin\Debug\ByteBankImportacaoExportacao.pdb
+C:\Alura\csharppoo-curso9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacao.csprojAssemblyReference.cache
+C:\Alura\csharppoo-curso9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacao.csproj.CoreCompileInputs.cache
+C:\Alura\csharppoo-curso9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.exe
+C:\Alura\csharppoo-curso9\ByteBankImportacaoExportacao\obj\Debug\ByteBankImportacaoExportacao.pdb
