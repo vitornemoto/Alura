@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
@@ -7,6 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Newtonsoft.Json;
 
 namespace CasaDoCodigo
 {
@@ -29,10 +31,13 @@ namespace CasaDoCodigo
             services.AddDbContext<AplicationContext>(options => 
                 options.UseSqlServer(connectionString)
                 );
+
+            services.AddTransient<IDataSevice,DataSevice>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, 
+            IServiceProvider serviceProvider)
         {
             if (env.IsDevelopment())
             {
@@ -52,6 +57,17 @@ namespace CasaDoCodigo
                     name: "default",
                     template: "{controller=Pedido}/{action=Carrossel}/{id?}");
             });
+
+            /*serviceProvider
+                .GetService<AplicationContext>()
+                .Database
+                .Migrate();*/
+            //.EnsureCreated(); // não permite migrações
+            serviceProvider
+                            .GetService<IDataSevice>()
+                            .InicializaDB();
         }
     }
+
+    
 }
